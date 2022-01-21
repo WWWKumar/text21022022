@@ -1,1 +1,3 @@
-print('hello world my frst prg python44')
+
+print('hello world my frst prg python')
+print('kumar')
